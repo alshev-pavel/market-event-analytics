@@ -1,0 +1,10 @@
+[project]
+name = "market-event"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "ipykernel>=7.4.0",
+    "pandas>=3.1.0",
+    "requests>=2.34.2",
+]
